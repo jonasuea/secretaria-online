@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+# Secretaria Online
+
+Sistema de gestão escolar desenvolvido com React, TypeScript e Tailwind CSS.
 
 ## Project info
 
