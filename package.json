@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jonasuea.github.io/secretaria-oline",
+  "homepage": "https://jonasuea.github.io/secretaria-online",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
